@@ -8,5 +8,9 @@
 <body>
     <h1>Halo cuy</h1>
     <p>This is paragraph</p>
+    <ul>
+        <li>Nanimz</li>
+        <li>MMR</li>
+    </ul>
 </body>
 </html>
