@@ -6,7 +6,7 @@
     <title>Coba Git Remote 2</title>
 </head>
 <body>
-    <h1>Halo cuy</h1>
+    <h1>Halo Cuyy</h1>
     <p>This is paragraph</p>
     <ul>
         <li>Nanimz</li>
